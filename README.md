@@ -13,8 +13,8 @@ To check it imported, you can rerun betacoind or betacoin-qt with -rescan to imp
 
 Haven't tested Bulk Wallets, but the addresses generated appear to be fine.
 
-Untested:
-=========
+Not used or no plans for currently
+==================================
 
 Vanity wallet (maybe some other time)
 Brain wallet (anyone?)
